@@ -1,1 +1,2 @@
 # Mamatoy
+Mama Toy is an IoT-enabled pregnancy support device designed to assist pregnant women throughout their pregnancy journey. The toy provides personalized week-by-week audio guidance on baby growth, maternal health, nutrition, precautions, and recommended do's and don'ts according to the current stage of pregnancy. By integrating RFID technology, ESP8266, RTC, and DFPlayer Mini, the system identifies users, tracks pregnancy progress, and delivers relevant audio content in an interactive and accessible manner, helping improve maternal awareness and prenatal care.
